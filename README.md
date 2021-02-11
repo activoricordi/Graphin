@@ -1,4 +1,4 @@
-<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> English | [简体中文](./README.zh-CN.md)
+<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> Spanish | [简体中文](./README.zh-CN.md)
 
 <h1 align="center">Graphin</h1>
 
@@ -10,9 +10,9 @@
 
 </div>
 
-Graphin means Graph Insight (analysis of graphs). It is a library based on [G6](https://github.com/antvis/g6) and React and offers graph analysis ability out of the box. Graphin's logo is graphene, which means the potential of the future.
+Graphin significa "Graph Insight" (Análisis de Gráficos). Es una libreria de Javascript que esta basada en [G6](https://github.com/antvis/g6) y React. Esta libreria ofrece la capacidad de realizar análisis de gráficos de forma simple y con una mínima configuración. El Logo del proyecto Graphin es el Grafeno, que simboliza el potencial del futuro.
 
-For more infomation, please check the [Graphin Website](https://graphin.antv.vision/zh).
+Para más información, por favor accede al sitio [Graphin Website](https://graphin.antv.vision/zh) en chino o visita la documentación del proyecto.
 
 ![graphin](https://gw.alipayobjects.com/mdn/rms_00edcb/afts/img/A*N-5PT6UO9LAAAAAAAAAAAABkARQnAQ)
 
